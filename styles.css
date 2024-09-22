@@ -1,0 +1,21 @@
+/* Personalize o estilo da sua página aqui */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  p, ul {
+    font-size: 1.2rem;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
